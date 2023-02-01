@@ -1,3 +1,4 @@
+# Parent class
 class Airline:
     # Class to represent an airline, with a name and a list of flights
     def __init__(self, name, flight_list):
